@@ -1,4 +1,10 @@
 # zomato-EDA
+Took this zomato set from kaggle to perfrom EDA . This involved:
+missing values
+explore about numerical variables
+explore categorical variables
+finding relationship between features
+
 Exploratory Data Analysis (EDA) refers to the method of studying and exploring record sets to apprehend their predominant traits, discover patterns, locate outliers, and identify relationships between variables. EDA is normally carried out as a preliminary step before undertaking extra formal statistical analyses or modeling.
 
 The Foremost Goals of EDA
